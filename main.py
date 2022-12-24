@@ -14,13 +14,13 @@ def get_data():
     items = soup.find_all('a', class_='styles_wrapper__pb4qU')
     for item in items:
         link = item.get('href')
-        links.append(link)
-        for l in links:
-            # print(l)
-            item_url = requests.get(l).text
-            soup = bs(item_url, 'lxml')
-            date = soup.find('span', class_="styles_brief_wrapper__date__FfOke")
-            print(date)
+        # links.append(link)
+        # for l in links:
+        #     # print(l)
+        #     item_url = requests.get(l).text
+        #     soup = bs(item_url, 'lxml')
+        #     date = soup.find('span', class_="styles_brief_wrapper__date__FfOke")
+        #     print(date)
 
         try:
             image = item.find('img', class_='styles_image--blur__6MsOZ').get('data-src')
