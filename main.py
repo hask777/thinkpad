@@ -1,65 +1,46 @@
-import requests
+from aiogram import Bot, Dispatcher, executor, types
+from aiogram.dispatcher.filters import Text
+from aiogram.utils.markdown import hbold, hlink
+import os
+
 import json
-from bs4 import BeautifulSoup as bs
+import time
+from scrapers.lenovo import get_data
 
-def get_data():
+bot = Bot(token='5926369508:AAG-ZkYWOkkWaxzt33JJmttWScfQ45Llohw', parse_mode=types.ParseMode.HTML)
+dp = Dispatcher(bot)
 
-    query = 'lenovo+thinkpad'
-    response = requests.get(f'https://www.kufar.by/l/r~gomelskaya-obl/noutbuki?query={query}&sort=lst.d').text
+@dp.message_handler(commands='start')
+async def start(message: types.Message):
+    # start_buttons = ['Ножи', 'Перчатки', 'Снайперские винтовки']
+    # keyboard = types.ReplyKeyboardMarkup()
+    # keyboard.add(*start_buttons)
 
-    items_arr = []
-    links = []
-
-    soup = bs(response, 'lxml')
-    items = soup.find_all('a', class_='styles_wrapper__pb4qU')
-    for item in items:
-        link = item.get('href')
-        # links.append(link)
-        # for l in links:
-        #     # print(l)
-        #     item_url = requests.get(l).text
-        #     soup = bs(item_url, 'lxml')
-        #     date = soup.find('span', class_="styles_brief_wrapper__date__FfOke")
-        #     print(date)
-
-        try:
-            image = item.find('img', class_='styles_image--blur__6MsOZ').get('data-src')
-        except:
-            image = None
-        title = item.find('h3', class_='styles_title__wj__Y').text
-        try:
-            price = item.find('p', class_='styles_price__x_wGw').text
-        except:
-            price = None
-        params = item.find('p', class_='styles_parameters__baZ7_ styles_ellipsis__3MoMa').text
-        try:
-            div = item.find('div', class_='styles_bottom__bottom__PzqJt')
-            city = item.find('div', class_='styles_bottom__bottom__PzqJt').find('p').text
-        except:
-            city = None
-        try:
-            time = item.find('div', class_='styles_bottom__bottom__PzqJt').find('span')
-        except:
-            time = None
-    
-        # print(div)
-
-        items_arr.append({
-            'link': link,
-            'image': image,
-            'title': title,
-            'price': price,
-            'params': params,
-            'city': city,
-            # 'time': time
-            
-        })
-
-    with open('thinkpad_gomel.json', 'w', encoding='utf-8') as f:
-        json.dump(items_arr, f, indent=4, ensure_ascii=False)
-
-def main():
     get_data()
 
-if __name__ == "__main__":
+    with open('thinkpad_gomel.json', 'r', encoding='utf-8') as f:
+        data = json.load(f)
+        print(data)
+    count = []
+    for index, item in enumerate(data):
+
+        if item.get("city") == "Гомель":
+            count.append(index)
+            card =  f'{item.get("image")}\n'\
+                    f'{hlink(item.get("title"), item.get("link"))}\n'\
+                    f'{hbold("Город: ")} {item.get("city")}\n'\
+                    f'{hbold("Цена: ")} {item.get("price")}\n'\
+                    f'{hbold("Характеристики:")} {item.get("params")}\n'\
+
+            if len(count) > 20:
+                if index % 20 == 0:
+                    time.sleep(3)
+
+            await message.answer(card)
+
+
+def main():
+    executor.start_polling(dp)
+
+if __name__ == '__main__':
     main()
