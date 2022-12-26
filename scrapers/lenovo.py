@@ -1,16 +1,17 @@
 import requests
 import json
+# import lxml
 from bs4 import BeautifulSoup as bs
 
 def get_data():
 
-    query = 'lenovo+thinkpad'
-    response = requests.get(f'https://www.kufar.by/l/r~gomelskaya-obl/noutbuki?query={query}&sort=lst.d').text
+    query = 'nb~lenovo'
+    response = requests.get(f'https://www.kufar.by/l/r~gomelskaya-obl/noutbuki').text
 
     items_arr = []
     links = []
 
-    soup = bs(response, 'lxml')
+    soup = bs(response)
     items = soup.find_all('a', class_='styles_wrapper__pb4qU')
     for item in items:
         link = item.get('href')

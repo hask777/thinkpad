@@ -2,7 +2,6 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.dispatcher.filters import Text
 from aiogram.utils.markdown import hbold, hlink
 import os
-
 import json
 import time
 from scrapers.lenovo import get_data
