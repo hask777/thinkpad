@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup as bs
 def get_data():
 
     query = 'nb~lenovo'
-    response = requests.get(f'https://www.kufar.by/l/r~gomelskaya-obl/noutbuki').text
+    response = requests.get(f'https://www.kufar.by/l/r~gomelskaya-obl/noutbuki?query=thinkpad&utm_filterOrigin=Search_suggester_1&utm_queryOrigin=Manually_typed').text
 
     items_arr = []
     links = []

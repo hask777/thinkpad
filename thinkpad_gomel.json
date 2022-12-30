@@ -1,378 +1,530 @@
 [
     {
-        "link": "https://www.kufar.by/item/178597631?searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/49/4923757585.jpg?rule=list_thumbs_2x",
-        "title": "Игровой Lenovo Y50-70 ТОРГ",
-        "price": "960 р.",
-        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, intel core i7, 16 гб, встроенная и дискретная",
-        "city": "Гомель"
-    },
-    {
-        "link": "https://www.kufar.by/item/178144629?rank=0&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/44/4407977342.jpg?rule=list_thumbs_2x",
-        "title": "Lenovo Legion Ryzen7 1660ti 144гц ",
-        "price": "2 800 р.",
-        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, amd ryzen 7, 16 гб, встроенная и дискретная",
-        "city": "Гомель"
-    },
-    {
-        "link": "https://www.kufar.by/item/175168208?rank=1&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/50/5083334022.jpg?rule=list_thumbs_2x",
-        "title": "ASUS Core i3/SSD/MX110 2Gb/FULL HD/RAM 8",
-        "price": "999 р.",
-        "params": "Б/у, ASUS, 15.6'' / 39.6 см, intel core i3, 8 гб, встроенная и дискретная",
-        "city": "Гомельская, Речица"
-    },
-    {
-        "link": "https://www.kufar.by/item/178797501?rank=2&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/52/5231032711.jpg?rule=list_thumbs_2x",
-        "title": "Игровой ноутбук Lenovo",
-        "price": "2 050 р.",
-        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, amd ryzen 5, 16 гб, встроенная и дискретная",
-        "city": "Гомель"
-    },
-    {
-        "link": "https://www.kufar.by/item/178796651?rank=3&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/52/5234672602.jpg?rule=list_thumbs_2x",
-        "title": "Нетбук Emachines",
-        "price": "150 р.",
-        "params": "Б/у, Acer, 10.1'' / 25.7 см, intel atom, 1 гб, встроенная",
-        "city": "Гомельская, Жлобин"
-    },
-    {
-        "link": "https://www.kufar.by/item/178796567?rank=4&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/52/5275634233.jpg?rule=list_thumbs_2x",
-        "title": "Asus K55VD Core i5_SSD240",
-        "price": "520 р.",
-        "params": "Б/у, ASUS, 15.6'' / 39.6 см, intel core i5, 6 гб, встроенная и дискретная",
-        "city": "Гомель"
-    },
-    {
-        "link": "https://www.kufar.by/item/178620548?rank=5&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/49/4978652813.jpg?rule=list_thumbs_2x",
-        "title": "Lenovo Legion 5 17ARH05H 82GN002CRK",
-        "price": "2 500 р.",
-        "params": "Б/у",
-        "city": "Гомельская, Речица"
-    },
-    {
-        "link": "https://www.kufar.by/item/178611223?rank=6&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/49/4931600321.jpg?rule=list_thumbs_2x",
-        "title": "Ноутбук Lenovo G500",
-        "price": "450 р.",
-        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, intel core pentium, 6 гб, встроенная",
-        "city": "Гомельская, Мозырь"
-    },
-    {
-        "link": "https://www.kufar.by/item/178481210?rank=7&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/48/4854303037.jpg?rule=list_thumbs_2x",
-        "title": "Ноутбук Lenovo 4x ядерный",
-        "price": "260 р.",
+        "link": "https://www.kufar.by/item/178922173?rank=0&searchId=85d8f4ce30983af1bb27cd3d6438851ec3c7",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/53/5332494529.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбуки ",
+        "price": "380 р.",
         "params": "Б/у",
         "city": "Гомель"
     },
     {
-        "link": "https://www.kufar.by/item/178792622?rank=8&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/52/5248323741.jpg?rule=list_thumbs_2x",
-        "title": "Lenovo Yoga 300-11IBR",
-        "price": "250 р.",
-        "params": "Б/у, Lenovo",
+        "link": "https://www.kufar.by/item/178851501?rank=1&searchId=85d8f4ce30983af1bb27cd3d6438851ec3c7",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/55/5520245443.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук",
+        "price": "Договорная",
+        "params": "Б/у, Lenovo, 13.3'' / 33.8 см, intel core i5, 16 гб",
         "city": "Гомель"
     },
     {
-        "link": "https://www.kufar.by/item/172097592?rank=9&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/85/8597532095.jpg?rule=list_thumbs_2x",
-        "title": "Hp 255 g3 cpu i7 gpu 2gb батарея держит хорошо ",
-        "price": "700 р.",
-        "params": "Б/у, HP, 15.6'' / 39.6 см, intel core i7, 4 гб, встроенная и дискретная",
-        "city": "Гомельская, Жлобин"
-    },
-    {
-        "link": "https://www.kufar.by/item/172927235?rank=10&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/94/9492291805.jpg?rule=list_thumbs_2x",
-        "title": "Ноутбук asus k53e",
-        "price": "350 р.",
-        "params": "Б/у, ASUS, 15.6'' / 39.6 см, 4 гб",
-        "city": "Гомельская, Жлобин"
-    },
-    {
-        "link": "https://www.kufar.by/item/178790925?rank=11&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/52/5254156847.jpg?rule=list_thumbs_2x",
-        "title": "Продам ноутбук",
-        "price": "2 500 р.",
-        "params": "Новое, HP, 15.6'' / 39.6 см, intel core i5, 8 гб, встроенная",
+        "link": "https://www.kufar.by/item/178825469?rank=2&searchId=85d8f4ce30983af1bb27cd3d6438851ec3c7",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/52/5283004674.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук б/у Lenovo ThinkPad T440s (GM010K27)",
+        "price": "755.25 р.",
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
         "city": "Гомель"
     },
     {
-        "link": "https://www.kufar.by/item/174777351?rank=12&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/23/2350668387.jpg?rule=list_thumbs_2x",
-        "title": "Asus K55V c игр.процеccором. Отл.состояние. По РБ",
-        "price": "350 р.",
-        "params": "Б/у, ASUS, 15.4'' / 39.1 см, amd a6, 4 гб",
-        "city": "Гомельская, Жлобин"
+        "link": "https://www.kufar.by/item/178311798?rank=3&searchId=85d8f4ce30983af1bb27cd3d6438851ec3c7",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/46/4614487417.jpg?rule=list_thumbs_2x",
+        "title": "бизнес-ноутбук Lenovo ThinkPad T460s 8GB/256 SSD",
+        "price": "498.80 р.",
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
+        "city": "Гомель"
     },
     {
-        "link": "https://www.kufar.by/item/177912828?rank=13&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/41/4164015760.jpg?rule=list_thumbs_2x",
-        "title": "Lenovo Y520 i5 GTX 1050 4ГБ, SSD 500 Гб",
+        "link": "https://www.kufar.by/item/177729745?rank=4&searchId=85d8f4ce30983af1bb27cd3d6438851ec3c7",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/39/3942586245.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук б/у Lenovo ThinkPad T440 (GM006L8W)",
+        "price": "615.69 р.",
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 4 гб, встроенная",
+        "city": "Гомель"
+    },
+    {
+        "link": "https://www.kufar.by/item/177631041?rank=5&searchId=85d8f4ce30983af1bb27cd3d6438851ec3c7",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/38/3872271697.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук б/у Lenovo ThinkPad L560 (GM183C8R)",
+        "price": "1 124.66 р.",
+        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, intel core i5, 8 гб, встроенная",
+        "city": "Гомель"
+    },
+    {
+        "link": "https://www.kufar.by/item/177154706?rank=6&searchId=85d8f4ce30983af1bb27cd3d6438851ec3c7",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/33/3317133297.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук б/у Lenovo ThinkPad T440s (GM03Z1GQ)",
+        "price": "719.67 р.",
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
+        "city": "Гомель"
+    },
+    {
+        "link": "https://www.kufar.by/item/176374720?rank=7&searchId=85d8f4ce30983af1bb27cd3d6438851ec3c7",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/33/3327166183.jpg?rule=list_thumbs_2x",
+        "title": "ThinkPad x390",
         "price": "1 300 р.",
-        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, intel core i5, 8 гб",
+        "params": "Б/у, Lenovo, 13.3'' / 33.8 см, intel core i5, 8 гб, встроенная",
+        "city": "Гомельская, Житковичи"
+    },
+    {
+        "link": "https://www.kufar.by/item/175514621?rank=8&searchId=85d8f4ce30983af1bb27cd3d6438851ec3c7",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/18/1868045410.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук б/у Lenovo ThinkPad T440s (GM03Z1GQ)",
+        "price": "719.67 р.",
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
         "city": "Гомель"
     },
     {
-        "link": "https://www.kufar.by/item/178597631?rank=14&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/49/4923757585.jpg?rule=list_thumbs_2x",
-        "title": "Игровой Lenovo Y50-70 ТОРГ",
-        "price": "960 р.",
-        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, intel core i7, 16 гб, встроенная и дискретная",
+        "link": "https://www.kufar.by/item/174598521?rank=9&searchId=85d8f4ce30983af1bb27cd3d6438851ec3c7",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/10/1006367632.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук б/у Lenovo Thinkpad T470S (GM78915)",
+        "price": "1 141.08 р.",
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 12 гб, встроенная",
         "city": "Гомель"
     },
     {
-        "link": "https://www.kufar.by/item/178785701?rank=15&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/52/5271146785.jpg?rule=list_thumbs_2x",
-        "title": "NVIDIA 840M 2GB и 6GB ОЗУ",
-        "price": "460 р.",
-        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, 6 гб, встроенная и дискретная",
+        "link": "https://www.kufar.by/item/172446789?rank=10&searchId=85d8f4ce30983af1bb27cd3d6438851ec3c7",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/89/8988617091.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo THINKPAD X1 Carbon",
+        "price": "870 р.",
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i7, 8 гб, встроенная",
         "city": "Гомель"
     },
     {
-        "link": "https://www.kufar.by/item/178784136?rank=16&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5105246252.jpg?rule=list_thumbs_2x",
-        "title": "ASUS VivoBook Max",
-        "price": "270 р.",
-        "params": "Б/у, ASUS, intel core i3, 4 гб, встроенная и дискретная",
+        "link": "https://www.kufar.by/item/174070668?rank=11&searchId=85d8f4ce30983af1bb27cd3d6438851ec3c7",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/05/0590091555.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук ThinkPad T510",
+        "price": "400 р.",
+        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, intel core i5, 6 гб, встроенная",
         "city": "Гомель"
     },
     {
-        "link": "https://www.kufar.by/item/178783728?rank=17&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5175371329.jpg?rule=list_thumbs_2x",
-        "title": "Lenovo legion y520-15ikbn",
-        "price": "1 100 р.",
-        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, intel core i5, 6 гб, встроенная и дискретная",
+        "link": "https://www.kufar.by/item/174057926?rank=12&searchId=85d8f4ce30983af1bb27cd3d6438851ec3c7",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/05/0546853222.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad 1",
+        "price": "980 р.",
+        "params": "Б/у, Lenovo, intel core i7, 16 гб, встроенная",
         "city": "Гомель"
     },
     {
-        "link": "https://www.kufar.by/item/178783389?rank=18&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5173450335.jpg?rule=list_thumbs_2x",
-        "title": "Игровой ноутбук ASUS F15",
-        "price": "2 570 р.",
-        "params": "Б/у, ASUS, 15.0'' / 38.1 см, intel core i5, 16 гб, встроенная и дискретная",
-        "city": "Гомельская, Светлогорск"
-    },
-    {
-        "link": "https://www.kufar.by/item/175420571?rank=19&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/17/1751045418.jpg?rule=list_thumbs_2x",
-        "title": "Ноутбук Hp",
-        "price": "500 р.",
-        "params": "Б/у, HP",
-        "city": "Гомельская, Речица"
-    },
-    {
-        "link": "https://www.kufar.by/item/178780535?rank=20&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5127432050.jpg?rule=list_thumbs_2x",
-        "title": "Ноутбук",
-        "price": "Договорная",
-        "params": "Б/у, ASUS",
-        "city": "Гомельская, Речица"
-    },
-    {
-        "link": "https://www.kufar.by/item/178779912?rank=21&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5167786348.jpg?rule=list_thumbs_2x",
-        "title": "ASUs VivoBook S15",
-        "price": "Договорная",
-        "params": "Б/у, ASUS, intel core i5, 16 гб, встроенная и дискретная",
+        "link": "https://www.kufar.by/item/173966560?rank=13&searchId=85d8f4ce30983af1bb27cd3d6438851ec3c7",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/04/0493578079.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук б/у Lenovo ThinkPad T440s (GM00EXPH)",
+        "price": "809.97 р.",
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
         "city": "Гомель"
     },
     {
-        "link": "https://www.kufar.by/item/178779633?rank=22&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5148043306.jpg?rule=list_thumbs_2x",
-        "title": "Asus ноутбук цена договорная ",
-        "price": "Договорная",
-        "params": "Б/у, ASUS",
-        "city": "Гомельская, Добруш"
-    },
-    {
-        "link": "https://www.kufar.by/item/172656159?rank=23&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/91/9188183477.jpg?rule=list_thumbs_2x",
-        "title": "Ноутбук Asus X450C гарантия 3 месяца (00221)",
-        "price": "650 р.",
-        "params": "Б/у, ASUS, 14.0'' / 35.6 см, intel core i5, 6 гб, встроенная и дискретная",
+        "link": "https://www.kufar.by/item/171810443?rank=14&searchId=85d8f4ce30983af1bb27cd3d6438851ec3c7",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/82/8217918325.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук б/у Lenovo ThinkPad L460 (GM0PAU74)",
+        "price": "924.90 р.",
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
         "city": "Гомель"
     },
     {
-        "link": "https://www.kufar.by/item/178772871?rank=24&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5133555950.jpg?rule=list_thumbs_2x",
-        "title": "Ноутбук",
-        "price": "Договорная",
-        "params": "Б/у, Dell",
-        "city": "Гомельская, Речица"
+        "link": "https://www.kufar.by/item/167869626?rank=0&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/44/4449200029.jpg?rule=list_thumbs_2x",
+        "title": "Лучший в классе трансформер Lenovo X201 Tablet",
+        "price": "999 р.",
+        "params": "Б/у, Lenovo, 12.1'' / 30.7 см, intel core i7, 4 гб, встроенная",
+        "city": "Минск, Центральный"
     },
     {
-        "link": "https://www.kufar.by/item/178772252?rank=25&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5102327155.jpg?rule=list_thumbs_2x",
-        "title": "MacBook Air 2015",
-        "price": "1 100 р.",
-        "params": "Б/у, Apple, 13.3'' / 33.8 см, intel core i5, 8 гб, встроенная",
-        "city": "Гомель"
-    },
-    {
-        "link": "https://www.kufar.by/item/178770523?rank=26&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5120884402.jpg?rule=list_thumbs_2x",
-        "title": "Hp 635",
-        "price": "290 р.",
-        "params": "Б/у, HP, 15.6'' / 39.6 см, intel core i3, 8 гб, встроенная",
-        "city": "Гомельская, Мозырь"
-    },
-    {
-        "link": "https://www.kufar.by/item/178769227?rank=27&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5126028711.jpg?rule=list_thumbs_2x",
-        "title": "Мощный, игровой ноутбук HP. Б.У. 1 год.",
-        "price": "640 р.",
-        "params": "Б/у",
-        "city": "Гомель"
-    },
-    {
-        "link": "https://www.kufar.by/item/178768840?rank=28&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5130038776.jpg?rule=list_thumbs_2x",
-        "title": "Нетбук",
-        "price": "250 р.",
-        "params": "Б/у, Samsung",
-        "city": "Гомельская, Светлогорск"
-    },
-    {
-        "link": "https://www.kufar.by/item/178768019?rank=29&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5180704372.jpg?rule=list_thumbs_2x",
-        "title": "HP omen 16",
-        "price": "7 800 р.",
-        "params": "Новое, HP, 16.1'' / 40.9 см, amd ryzen 7, 16 гб, встроенная и дискретная",
-        "city": "Гомель"
-    },
-    {
-        "link": "https://www.kufar.by/item/178767992?rank=30&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5146668838.jpg?rule=list_thumbs_2x",
-        "title": "Lenovo Legion Y520",
-        "price": "1 500 р.",
-        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, intel core i5, 16 гб",
-        "city": "Гомельская, Речица"
-    },
-    {
-        "link": "https://www.kufar.by/item/178767916?rank=31&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5198736792.jpg?rule=list_thumbs_2x",
-        "title": "Мощный ноутбук для дома и офиса. Lenovo 330-15ikb",
-        "price": "1 050 р.",
-        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, intel core i3, 4 гб, встроенная и дискретная",
-        "city": "Гомель"
-    },
-    {
-        "link": "https://www.kufar.by/item/132470717?rank=32&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/41/4192293887.jpg?rule=list_thumbs_2x",
-        "title": "КУПЛЮ НОУТБУК ДОРОГО и БЫСТРО.",
-        "price": "Договорная",
-        "params": "Б/у",
-        "city": "Гомель"
-    },
-    {
-        "link": "https://www.kufar.by/item/178763237?rank=33&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5139610768.jpg?rule=list_thumbs_2x",
-        "title": "Ноутбук",
-        "price": "150 р.",
-        "params": "Б/у, Samsung, 15.4'' / 39.1 см, 3 гб",
-        "city": "Гомельская, Речица"
-    },
-    {
-        "link": "https://www.kufar.by/item/166971074?rank=34&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/36/3617706419.jpg?rule=list_thumbs_2x",
-        "title": "Ноутбук Asus офисный 14''. РАССРОЧКА",
-        "price": "Договорная",
-        "params": "Новое, ASUS, 14.0'' / 35.6 см",
-        "city": "Гомель"
-    },
-    {
-        "link": "https://www.kufar.by/item/178761872?rank=35&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5111379469.jpg?rule=list_thumbs_2x",
-        "title": "Ноутбук Acer",
-        "price": "250 р.",
-        "params": "Б/у, Acer",
-        "city": "Гомельская, Мозырь"
-    },
-    {
-        "link": "https://www.kufar.by/item/178760884?rank=36&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5139426202.jpg?rule=list_thumbs_2x",
-        "title": "ноутбук Lenovo",
-        "price": "350 р.",
+        "link": "https://www.kufar.by/item/174685448?rank=1&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/11/1179456983.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad X270",
+        "price": null,
         "params": "Б/у, Lenovo",
-        "city": "Гомельская, Светлогорск"
+        "city": "Минск, Центральный"
     },
     {
-        "link": "https://www.kufar.by/item/178529912?rank=37&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/48/4876777423.jpg?rule=list_thumbs_2x",
-        "title": "Игровой Lenovo Z500 i5-3230,8 OZU, SSD, 2GB Video ",
-        "price": "740 р.",
-        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, intel core i5, 8 гб, встроенная и дискретная",
-        "city": "Гомель"
-    },
-    {
-        "link": "https://www.kufar.by/item/178760398?rank=38&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5188286288.jpg?rule=list_thumbs_2x",
-        "title": "Samsung RV515 - 4Гб - 240Гб SSD",
-        "price": "220 р.",
-        "params": "Б/у, Samsung, 15.6'' / 39.6 см, amd e1, 4 гб, встроенная",
-        "city": "Гомельская, Мозырь"
-    },
-    {
-        "link": "https://www.kufar.by/item/178758570?rank=39&searchId=54fc2ce46abacc4ca650f72fd6a6a09f2c6b",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5179503130.jpg?rule=list_thumbs_2x",
-        "title": "Lenovo ThinkPad L390 i3-8145u бизнес-ноутбук 13,3'",
-        "price": "450 р.",
-        "params": "Б/у, Lenovo, 13.3'' / 33.8 см, intel core i3, 4 гб, встроенная",
-        "city": "Гомель"
-    },
-    {
-        "link": "https://www.kufar.by/item/175618097",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/19/1995755745.jpg?rule=list_thumbs_2x",
-        "title": "Ноутбук Samsung Galaxy Book Pro 360 15.6''",
-        "price": "4 600 р.",
-        "params": "Новое, Samsung, 15.6'' / 39.6 см",
+        "link": "https://www.kufar.by/item/178722060?rank=2&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/51/5118442810.jpg?rule=list_thumbs_2x",
+        "title": "Lenovo ThinkPad T470S",
+        "price": "780 р.",
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
         "city": "Гродно"
     },
     {
-        "link": "https://www.kufar.by/item/176206947",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/24/2489372626.jpg?rule=list_thumbs_2x",
-        "title": "Ноутбук HP HQ-TRE 71025",
-        "price": "290 р.",
-        "params": "Б/у, HP, 15.6'' / 39.6 см, amd a6, 4 гб, встроенная",
+        "link": "https://www.kufar.by/item/178920180?rank=3&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/53/5329445482.jpg?rule=list_thumbs_2x",
+        "title": "УЛЬТРАБУК Lenovo ThinkPad T460s 14''iPS FHD SSD/8/Core i5",
+        "price": "625 р.",
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
+        "city": "Минск, Заводской"
+    },
+    {
+        "link": "https://www.kufar.by/item/176835638?rank=4&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/30/3067718283.jpg?rule=list_thumbs_2x",
+        "title": "Lenovo ThinkPad T480s Touch",
+        "price": "1 269 р.",
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 12 гб, встроенная",
+        "city": "Минск, Первомайский"
+    },
+    {
+        "link": "https://www.kufar.by/item/174685517?rank=5&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/45/4576841046.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad T460 (IPS/8/256GB)",
+        "price": null,
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/177368231?rank=6&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/35/3597873280.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad T470",
+        "price": null,
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/174685316?rank=7&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/11/1158134250.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad L480",
+        "price": null,
+        "params": "Б/у, Lenovo",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/177349806?rank=8&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/35/3503670343.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad T460",
+        "price": null,
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/179049623?rank=9&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/55/5591916130.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad T480",
+        "price": null,
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/178004277?rank=10&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/42/4251927579.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad T570",
+        "price": null,
+        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, intel core i7, 8 гб, дискретная",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/171896535?rank=11&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/83/8381868749.jpg?rule=list_thumbs_2x",
+        "title": "Рабочая станция Lenovo ThinkPad P15 Gen 1",
+        "price": "3 399 р.",
+        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, intel core i7, 32 гб, встроенная и дискретная",
+        "city": "Минск, Первомайский"
+    },
+    {
+        "link": "https://www.kufar.by/item/174685524?rank=12&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/11/1106323070.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad X270",
+        "price": null,
+        "params": "Б/у, Lenovo",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/169566930?rank=13&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/59/5965055560.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad T460 (IPS/8/256/key)",
+        "price": "899 р.",
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
+        "city": "Минск, Первомайский"
+    },
+    {
+        "link": "https://www.kufar.by/item/177411338?rank=14&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/36/3650824773.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad X250",
+        "price": null,
+        "params": "Б/у, Lenovo, 12.5'' / 31.8 см, intel core i5, 4 гб, встроенная",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/174685516?rank=15&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/11/1142100181.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad L470",
+        "price": null,
+        "params": "Б/у, Lenovo",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/178004284?rank=16&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/42/4209906977.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad X260",
+        "price": null,
+        "params": "Б/у, Lenovo, 12.5'' / 31.8 см, intel core i5, 8 гб, встроенная",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/179037228?rank=17&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/55/5590345756.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad T470 ",
+        "price": "700 р.",
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб",
+        "city": "Минск, Первомайский"
+    },
+    {
+        "link": "https://www.kufar.by/item/174685450?rank=18&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/11/1139120216.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad X270",
+        "price": null,
+        "params": "Б/у, Lenovo",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/179033986?rank=19&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/55/5524867990.jpg?rule=list_thumbs_2x",
+        "title": "Рабочий DELL intel T7500 2gb 320gb",
+        "price": "150 р.",
+        "params": "Б/у, Dell, 15.4'' / 39.1 см, intel core 2, 2 гб, встроенная",
+        "city": "Минск, Первомайский"
+    },
+    {
+        "link": "https://www.kufar.by/item/174685509?rank=20&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/11/1165390310.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad L470",
+        "price": null,
+        "params": "Б/у, Lenovo",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/175611495?rank=21&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/19/1941585357.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad X260",
+        "price": null,
+        "params": "Б/у, Lenovo",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/179022054?rank=22&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/55/5503872155.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo x260 core it 8gb/512",
+        "price": "750 р.",
+        "params": "Б/у, Lenovo, 12.5'' / 31.8 см, intel core i5, 8 гб, встроенная",
+        "city": "Витебск"
+    },
+    {
+        "link": "https://www.kufar.by/item/179020732?rank=23&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/55/5561782471.jpg?rule=list_thumbs_2x",
+        "title": "Lenovo ThinkPad x280 16/256",
+        "price": "1 200 р.",
+        "params": "Б/у, Lenovo, 12.5'' / 31.8 см, intel core i5, 16 гб, встроенная",
+        "city": "Витебск"
+    },
+    {
+        "link": "https://www.kufar.by/item/179020713?rank=24&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/55/5554063433.jpg?rule=list_thumbs_2x",
+        "title": "Lenovo T460.IPS матрица-сенсор.i5-6gen/ 16Гб",
+        "price": "860 р.",
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 16 гб, встроенная",
+        "city": "Витебск"
+    },
+    {
+        "link": "https://www.kufar.by/item/177349807?rank=25&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/35/3595147024.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad T460",
+        "price": null,
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/178004279?rank=26&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/42/4271254045.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad T470",
+        "price": null,
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/179017549?rank=27&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/55/5538846027.jpg?rule=list_thumbs_2x",
+        "title": "Lenovo ThinkPad 13.IPS/i3-7gen/DDR IV-12Гб/SSD",
+        "price": "860 р.",
+        "params": "Б/у, Lenovo, 13.3'' / 33.8 см, intel core i3, 12 гб, встроенная",
+        "city": "Витебск"
+    },
+    {
+        "link": "https://www.kufar.by/item/169566240?rank=28&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/59/5989792365.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad T460 (IPS/8/256GB)",
+        "price": "799 р.",
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
+        "city": "Минск, Первомайский"
+    },
+    {
+        "link": "https://www.kufar.by/item/174685446?rank=29&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/11/1119793750.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad T460 (IPS/8/256/key)",
+        "price": null,
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/178362780?rank=30&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/54/5490073718.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo Thinkpad T510i",
+        "price": null,
+        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, intel core i3, 4 гб, дискретная",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/178513991?rank=31&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/48/4832348146.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad T470",
+        "price": null,
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/142386321?rank=32&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/58/5850714867.jpg?rule=list_thumbs_2x",
+        "title": "Lenovo ThinkPad T540p i7/16Gb/256Gb SSD/GT730/15,6",
+        "price": "1 450 р.",
+        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, intel core i7, 16 гб, встроенная и дискретная",
         "city": "Минск, Советский"
     },
     {
-        "link": "https://www.kufar.by/item/177140978",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/33/3355106749.jpg?rule=list_thumbs_2x",
-        "title": "Ноутбук HONOR MagicBook X15 BBR-WAI9",
-        "price": "1 500 р.",
-        "params": "Б/у, Другой, 15.6'' / 39.6 см",
+        "link": "https://www.kufar.by/item/176846518?rank=33&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/30/3093817174.jpg?rule=list_thumbs_2x",
+        "title": "Lenovo ThinkPad 13 i3-7100U/8GB DDR4/256GB SSD",
+        "price": "850 р.",
+        "params": "Б/у, Lenovo, 13.3'' / 33.8 см, intel core i3, 8 гб, встроенная",
+        "city": "Минск, Московский"
+    },
+    {
+        "link": "https://www.kufar.by/item/177349802?rank=34&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/35/3526960472.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad T460",
+        "price": null,
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/178004280?rank=35&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/42/4220114131.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad T470",
+        "price": null,
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/174683733?rank=36&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/55/5592082245.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad T430U I5-7 дискретная",
+        "price": "700 р.",
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i7, 16 гб, встроенная и дискретная",
         "city": "Минск, Фрунзенский"
     },
     {
-        "link": "https://www.kufar.by/item/170765167",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/71/7116217127.jpg?rule=list_thumbs_2x",
-        "title": "ультрабук Dell Latitude E7440 (i7, 8Gb, SSD 120Gb)",
-        "price": "690 р.",
-        "params": "Б/у, Dell, 14.0'' / 35.6 см, intel core i7, 8 гб, встроенная",
-        "city": "Минск, Московский"
+        "link": "https://www.kufar.by/item/178279845?rank=37&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/45/4592591493.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad T470",
+        "price": null,
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i7, 8 гб, встроенная",
+        "city": "Минск, Центральный"
     },
     {
-        "link": "https://www.kufar.by/item/144449666",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/82/8209602837.jpg?rule=list_thumbs_2x",
-        "title": "Lenovo V14-IWL (i5-8265U/ 8Gb/ 240Gb) Гарантия",
-        "price": "1 020 р.",
+        "link": "https://www.kufar.by/item/175067760?rank=38&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/40/4072365116.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad X270",
+        "price": null,
+        "params": "Б/у, Lenovo, 12.5'' / 31.8 см, intel core i5, 8 гб, встроенная",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/178965157?rank=39&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/54/5447712855.jpg?rule=list_thumbs_2x",
+        "title": "lenovo thinkpad edge 15",
+        "price": "160 р.",
+        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, intel core i3, 4 гб",
+        "city": "Гродненская, Ошмяны"
+    },
+    {
+        "link": "https://www.kufar.by/item/174685515?rank=40&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/11/1150623500.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad L470",
+        "price": null,
+        "params": "Б/у, Lenovo",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/174685521?rank=41&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/11/1189276432.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad X260",
+        "price": null,
+        "params": "Б/у, Lenovo",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/176435230?rank=42&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/26/2645349998.jpg?rule=list_thumbs_2x",
+        "title": "Lenovo IPS Thinkpad W530 Core i7/ SSD 256/16gb",
+        "price": "855 р.",
+        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, intel core i7, 16 гб, встроенная и дискретная",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/175067759?rank=43&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/33/3382005692.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad X270",
+        "price": null,
+        "params": "Б/у, Lenovo, 12.5'' / 31.8 см, intel core i5, 8 гб, встроенная",
+        "city": "Минск, Центральный"
+    },
+    {
+        "link": "https://www.kufar.by/item/178958568?rank=44&searchId=964f131a87d888fc46fd504cc1f38de015ee",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/54/5477080482.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук б/у Lenovo Thinkpad X280 (WT11TXRJ)",
+        "price": "1 141.08 р.",
+        "params": "Б/у, Lenovo, 12.5'' / 31.8 см, intel core i5, 8 гб, встроенная",
+        "city": "Витебск"
+    },
+    {
+        "link": "https://www.kufar.by/item/178920180",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/53/5329445482.jpg?rule=list_thumbs_2x",
+        "title": "УЛЬТРАБУК Lenovo ThinkPad T460s 14''iPS FHD SSD/8/Core i5",
+        "price": "625 р.",
         "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
-        "city": "Минск, Московский"
+        "city": "Минск, Заводской"
     },
     {
-        "link": "https://www.kufar.by/item/171865301",
-        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/29/2932678638.jpg?rule=list_thumbs_2x",
-        "title": "15.6'' Dell Latitude E5540 (i5-4300U/ 16Gb/ 256Gb+500Gb)",
-        "price": "720 р.",
-        "params": "Б/у, Dell, 15.6'' / 39.6 см, intel core i5, 16 гб, встроенная и дискретная",
-        "city": "Минск, Московский"
+        "link": "https://www.kufar.by/item/142386321",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/58/5850714867.jpg?rule=list_thumbs_2x",
+        "title": "Lenovo ThinkPad T540p i7/16Gb/256Gb SSD/GT730/15,6",
+        "price": "1 450 р.",
+        "params": "Б/у, Lenovo, 15.6'' / 39.6 см, intel core i7, 16 гб, встроенная и дискретная",
+        "city": "Минск, Советский"
+    },
+    {
+        "link": "https://www.kufar.by/item/178958568",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/54/5477080482.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук б/у Lenovo Thinkpad X280 (WT11TXRJ)",
+        "price": "1 141.08 р.",
+        "params": "Б/у, Lenovo, 12.5'' / 31.8 см, intel core i5, 8 гб, встроенная",
+        "city": "Витебск"
+    },
+    {
+        "link": "https://www.kufar.by/item/178958448",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/54/5451093949.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук б/у Lenovo ThinkPad T480 (PAR1FLL3P)",
+        "price": "1 141.08 р.",
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 8 гб, встроенная",
+        "city": "Минск, Партизанский"
+    },
+    {
+        "link": "https://www.kufar.by/item/178958073",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/54/5486633901.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук б/у Lenovo Thinkpad T470S (SOW78915)",
+        "price": "1 141.08 р.",
+        "params": "Б/у, Lenovo, 14.0'' / 35.6 см, intel core i5, 12 гб, встроенная",
+        "city": "Минск, Советский"
+    },
+    {
+        "link": "https://www.kufar.by/item/178626243",
+        "image": "https://yams.kufar.by/api/v1/kufar-ads/images/49/4932047791.jpg?rule=list_thumbs_2x",
+        "title": "Ноутбук Lenovo ThinkPad E15 Gen 4 Intel 21E6007HUS",
+        "price": "4 300 р.",
+        "params": "Новое, Lenovo, intel core i5",
+        "city": null
     }
 ]
